@@ -1,16 +1,20 @@
+# Leo Daumas
+
 ### Hi there 👋
+Passioned about programming
+I am a Full Stack Developer
+:computer:
 
-<!--
-**leodaumas/leodaumas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## About 
+:rocket: I’m currently looking to collaborate in projects using React, NodeJS, Javascript, Typescript.
+:computer:  I’m currently learning web development with technologies such as NodeJS, ReactJS and React Native with Javascript and Typescript.
+🌱 I’m looking for help with changing the world for the better
 
-Here are some ideas to get you started:
+<img width="auto" src="https://media1.tenor.com/images/260e31ba15e8738056da29202123db3c/tenor.gif?itemid=13909137">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LeoDaumas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leodaumas/)](https://www.linkedin.com/in/leodaumas/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-leofdaumas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leofdaumas@gmail.com)](mailto:leofdaumas@gmail.com)
+
