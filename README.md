@@ -18,7 +18,7 @@ Full Stack Developer
 [![Gmail Badge](https://img.shields.io/badge/-leofdaumas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leofdaumas@gmail.com)](mailto:leofdaumas@gmail.com)
 
 
-<img width="auto" src="https://media1.tenor.com/images/260e31ba15e8738056da29202123db3c/tenor.gif?itemid=13909137">
+<img width="auto" src="https://media2.giphy.com/media/LmNwrBhejkK9EFP504/200.gif">
 
 
 
